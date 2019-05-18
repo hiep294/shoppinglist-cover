@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://hiep294:hiep294@cluster0-sig2d.mongodb.net/ShoppingList?retryWrites=true",
+  "jwtSecret": "sl_myJwtSecret"
+}
